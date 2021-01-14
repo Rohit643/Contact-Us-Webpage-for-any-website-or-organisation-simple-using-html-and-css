@@ -1,0 +1,31 @@
+img{
+    height: 50px;
+    width: 50px;
+}
+aside{
+    width: 50%;
+    float: left;
+}
+#com{
+    height: 25%;
+}
+input{
+width: 35%
+}
+section{
+    padding-top: 70px;
+}
+aside{
+    padding-left: 100px;
+}
+p{
+    font-size: 30px;
+    font-style: italic;
+}
+form
+{
+    font-style: italic;
+}
+#button{
+    width: 22%;
+}
